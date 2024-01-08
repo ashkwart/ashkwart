@@ -1,4 +1,4 @@
-- 🎀 Hey! My name is Ashley and i'm very intrested in UX design and App development. I'm a current Freshman CS major at Cornell University learning JAVA.
+- 🎀 Hey! My name is Ashley and i'm very intrested in UX design and App development. I'm a current Freshman CS major at Cornell University currently learning JAVA.
 -  As of right now I'd love to collaborate with app design and/or software develompent within Apps
 
 <!---
